@@ -136,7 +136,7 @@
           <div class="info-box">
             <i class="bx bx-map"></i>
             <h3>My Address</h3>
-            <p>Jl Jambi no.62</p>
+            <p>Medan</p>
           </div>
         </div>
 
